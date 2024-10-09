@@ -1,7 +1,7 @@
 {
   "name": "5e-database",
   "version": "1.0.0",
-  "description": "Database for 5e-srd-api",
+  "description": "Database for 5e-srd-api.",
   "engines": {
     "node": "18.x"
   },
